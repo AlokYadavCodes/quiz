@@ -19,7 +19,7 @@ The goal of this app is to create an engaging quiz experience where users can:
 Copy the code to your machine:
 
 ```bash
-git clone https://github.com/your-username/quiz-app.git
+git clone https://github.com/AlokYadavCodes/quiz.git
 cd quiz-app
 ```
 
