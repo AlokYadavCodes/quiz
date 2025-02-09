@@ -23,7 +23,7 @@ git clone https://github.com/AlokYadavCodes/quiz.git
 cd quiz-app
 ```
 
-### 2. **Install Dependencies
+### 2. Install Dependencies
 Make sure you have Node.js installed, then run:
    ```bash
    npm install
