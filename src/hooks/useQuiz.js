@@ -16,8 +16,9 @@ export const useQuiz = (
     const navigate = useNavigate();
 
     useEffect(() => {
+        const apiUrl= import.meta.env.VITE_API_URL || "/api";
         axios
-            .get("/api/Uw5CrX")
+            .get(`${apiUrl}/Uw5CrX`)
             .then((response) => {
                 console.log(response.data.questions);
                 setQuestions(response.data.questions);
