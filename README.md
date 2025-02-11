@@ -20,7 +20,7 @@ Copy the code to your machine:
 
 ```bash
 git clone https://github.com/AlokYadavCodes/quiz.git
-cd quiz-app
+cd quiz
 ```
 
 ### 2. Install Dependencies
